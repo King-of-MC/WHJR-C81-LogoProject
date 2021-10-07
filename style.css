@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: orange;
+}
+
+canvas {
+    border-width: 10px;
+    border-style: double;
+    border-color: slategrey;
+}
+
+
+
